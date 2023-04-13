@@ -1,11 +1,11 @@
-About kt-legacy
-===============
+About kt-legacy-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/kt-legacy-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/haifeng-jin/kt-legacy
 
 Package license: Apache-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/kt-legacy-feedstock/blob/main/LICENSE.txt)
 
 Summary: Legacy import names for Keras Tuner
 
